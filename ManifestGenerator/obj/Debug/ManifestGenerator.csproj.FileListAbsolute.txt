@@ -1,0 +1,10 @@
+C:\Users\Mukund\documents\visual studio 2010\Projects\SoftwareRepositoryServer\ManifestGenerator\bin\Debug\ManifestGenerator.exe
+C:\Users\Mukund\documents\visual studio 2010\Projects\SoftwareRepositoryServer\ManifestGenerator\bin\Debug\ManifestGenerator.pdb
+C:\Users\Mukund\documents\visual studio 2010\Projects\SoftwareRepositoryServer\ManifestGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mukund\documents\visual studio 2010\Projects\SoftwareRepositoryServer\ManifestGenerator\obj\Debug\ManifestGenerator.exe
+C:\Users\Mukund\documents\visual studio 2010\Projects\SoftwareRepositoryServer\ManifestGenerator\obj\Debug\ManifestGenerator.pdb
+C:\Users\Mukund\Desktop\MunarayaCSE681_SoftwareRepositoryServer\MunarayaCSE681_SoftwareRepositoryServer\ManifestGenerator\bin\Debug\ManifestGenerator.exe
+C:\Users\Mukund\Desktop\MunarayaCSE681_SoftwareRepositoryServer\MunarayaCSE681_SoftwareRepositoryServer\ManifestGenerator\bin\Debug\ManifestGenerator.pdb
+C:\Users\Mukund\Desktop\MunarayaCSE681_SoftwareRepositoryServer\MunarayaCSE681_SoftwareRepositoryServer\ManifestGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mukund\Desktop\MunarayaCSE681_SoftwareRepositoryServer\MunarayaCSE681_SoftwareRepositoryServer\ManifestGenerator\obj\Debug\ManifestGenerator.exe
+C:\Users\Mukund\Desktop\MunarayaCSE681_SoftwareRepositoryServer\MunarayaCSE681_SoftwareRepositoryServer\ManifestGenerator\obj\Debug\ManifestGenerator.pdb

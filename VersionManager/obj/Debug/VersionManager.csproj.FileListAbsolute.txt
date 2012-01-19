@@ -1,0 +1,10 @@
+C:\Users\Mukund\documents\visual studio 2010\Projects\SoftwareRepositoryServer\VersionManager\bin\Debug\VersionManager.exe
+C:\Users\Mukund\documents\visual studio 2010\Projects\SoftwareRepositoryServer\VersionManager\bin\Debug\VersionManager.pdb
+C:\Users\Mukund\documents\visual studio 2010\Projects\SoftwareRepositoryServer\VersionManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mukund\documents\visual studio 2010\Projects\SoftwareRepositoryServer\VersionManager\obj\Debug\VersionManager.exe
+C:\Users\Mukund\documents\visual studio 2010\Projects\SoftwareRepositoryServer\VersionManager\obj\Debug\VersionManager.pdb
+C:\Users\Mukund\Desktop\MunarayaCSE681_SoftwareRepositoryServer\MunarayaCSE681_SoftwareRepositoryServer\VersionManager\bin\Debug\VersionManager.exe
+C:\Users\Mukund\Desktop\MunarayaCSE681_SoftwareRepositoryServer\MunarayaCSE681_SoftwareRepositoryServer\VersionManager\bin\Debug\VersionManager.pdb
+C:\Users\Mukund\Desktop\MunarayaCSE681_SoftwareRepositoryServer\MunarayaCSE681_SoftwareRepositoryServer\VersionManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mukund\Desktop\MunarayaCSE681_SoftwareRepositoryServer\MunarayaCSE681_SoftwareRepositoryServer\VersionManager\obj\Debug\VersionManager.exe
+C:\Users\Mukund\Desktop\MunarayaCSE681_SoftwareRepositoryServer\MunarayaCSE681_SoftwareRepositoryServer\VersionManager\obj\Debug\VersionManager.pdb
